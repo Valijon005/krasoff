@@ -1,0 +1,454 @@
+body{background: #808080;font-family: Arial, Helvetica, sans-serif;
+    padding: 0;
+    padding-left: 15%;
+    padding-right: 15%;
+
+
+}
+header{background-color: white;
+    border-radius: 7px;
+    width: 100%;
+}
+header li {text-decoration:  none;}
+nav{display: flex;
+    padding: 15px;
+    list-style: none;
+    border-top: 3px solid #808080;
+}
+
+nav li{padding: 1px;
+     padding-left: 17vh;
+    transition: 2s;
+    color: black;
+    
+    
+
+}
+nav a{
+    text-decoration: none;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: black;
+    font-size: 2.5vh;
+    
+}
+    
+.div1{
+    text-align: center;
+    background-color: #fff;
+    border-radius: 7px;
+    margin-bottom: 50px;
+    padding: 10%;
+    box-shadow: 0 15px 15px black;
+
+}
+.div1 p {padding-bottom: 10px;}
+.img1{padding-left: 40%;
+width: 130px;
+height: auto;
+
+}
+header img{padding: 10px;}
+
+
+
+
+
+.img2{width: 400px;}
+
+
+.b1{
+  
+   border: none;
+    padding: 20px;
+    background-color: rgb(31, 158, 231);
+    color: #fff;
+    border-radius: 5px;
+    margin-bottom: 50px;
+    cursor: pointer;
+    transition: 0.3s linear;
+    width: 100px;
+
+
+}
+
+
+.b1:hover{
+transform: rotateX(15deg);
+box-shadow: 0 15px 15px black;
+
+
+
+
+
+
+}
+#vall{display: flex;
+padding-left: 10%;
+}
+
+#valll{display: flex;
+    padding-left: 10%;
+    }
+
+    #valla{display: flex;
+        padding-left: 10%;
+        }
+        #valli{display: flex;
+            padding-left: 10%;
+            }
+
+
+main{
+ background-color: white;
+ border-radius: 7px;
+ box-shadow: 0 10px 10px;
+
+}
+
+
+.fal{padding-left: 35%;}
+
+#p2{color:gray}
+
+.yell{display: flex;
+padding-left: 5%;
+}
+
+.vali{padding-left: 10%;}
+
+.ali{display: flex;
+padding-left: 5%;
+
+}
+.ali>a{padding: 5%;}
+
+.llaaa{display: flex;}
+
+.mish{padding-left: 40%;}
+
+.main1{padding: 50px;}
+
+
+
+.b1:hover{background-color: #d93f49; color: black;}
+.fall{padding-left: 30%;}
+
+
+@media(max-width:885px){
+    nav a{
+        text-decoration: none;
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+        color: black;
+        font-size: 2.5vh;
+        font-weight: 800;
+    }
+    nav li{padding: 1px;
+        padding-left: 12vh;
+       transition: 2s;
+       color: black;
+    }
+    .pps{
+        font-size: 1.5em;
+        font-weight: 500;
+        color: aqua;
+        
+    }
+
+    .h1s{
+        width: 100%;
+        font-size: 2em;
+        font-weight: 600;
+    }
+    .p1{
+        width: 100%;
+        font-weight: 500;
+        font-family: sans-serif;
+        font-size: 1.1em;
+    }
+    .img2{
+        width: 400px;
+    }
+
+    #vall div{
+        padding-left: 0;
+        width: 100%;
+
+
+    }
+    #vall div img{
+        width: 200px;
+    }
+
+    #valll div{
+        padding-left: 0;
+        width: 100%;
+
+
+    }
+    #valll div img{
+        width: 200px;
+    }
+
+    #valla div{
+        padding-left: 0;
+        width: 100%;
+
+
+    }
+    #valla div img{
+        width: 200px;
+    }
+
+    #valli div{
+        padding-left: 0;
+        width: 100%;
+
+
+    }
+    #valli div img{
+        width: 200px;
+    }
+
+    .b1{
+  
+         border: none;
+         padding: 17px;
+         background-color: rgb(31, 158, 231);
+         color: #fff;
+         border-radius: 5px;
+         margin-bottom: 50px;
+         cursor: pointer;
+         transition: 0.3s linear;
+         width: 80px;
+         
+         
+     
+     
+     }
+  
+
+
+
+
+
+}
+
+@media(max-width:800px){
+    nav a{
+        text-decoration: none;
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+        color: black;
+        font-size: 2vh;
+        font-weight: 600;
+        
+    }
+    nav li{padding: 1px;
+        padding-left: 10vh;
+       transition: 2s;
+       color: black;
+    }
+
+    .h1s{
+        width: 100%;
+        font-size: 1.7em;
+        font-weight: 600;
+    }
+    .img2{
+        width: 300px;
+    }
+    #valli div{
+        padding-left: 0;
+        width: 100%;
+
+
+    }
+    #valli div img{
+        width: 180px;
+    }
+    #vall div{
+        padding-left: 0;
+        width: 100%;
+
+
+    }
+    #vall div img{
+        width: 180px;
+    }
+
+    #valll div{
+        padding-left: 0;
+        width: 100%;
+
+
+    }
+    #valll div img{
+        width: 180px;
+    }
+
+    #valla div{
+        padding-left: 0;
+        width: 100%;
+
+
+    }
+    #valla div img{
+        width: 180px;
+    }
+
+    .yozz h1{
+        font-size: 1.7em;
+    }
+
+    .yozz p{
+        font-size: 1em;
+        padding-right: 10px;
+    }
+
+    .vali h1{
+        font-size: 1.7em;
+    }
+
+    .mish h3{
+        font-size: 1em;
+
+    }
+
+    .mish a{
+        font-size: 12px;
+    }
+
+ 
+}
+
+@media(max-width:1090px){
+    body{background: #808080;font-family: Arial, Helvetica, sans-serif;
+        padding: 0;
+        padding-left: 5%;
+        padding-right:4%;
+}
+
+
+
+@media(max-width:476px){
+    .img2{
+       width: 240px;
+    }
+
+    nav a{
+        text-decoration: none;
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+        color: black;
+        font-size: 2vh;
+        font-weight: 600;
+        
+    }
+    nav li{padding: 1px;
+        padding-left: 4vh;
+       transition: 2s;
+       color: black;
+    }
+
+    #valli div{
+        padding-left: 0;
+        width: 100%;
+
+
+    }
+    #valli div img{
+        width: 150px;
+    }
+    #vall div{
+        padding-left: 0;
+        width: 100%;
+
+
+    }
+    #vall div img{
+        width: 150px;
+    }
+
+    #valll div{
+        padding-left: 0;
+        width: 100%;
+
+
+    }
+    #valll div img{
+        width: 150px;
+    }
+
+    #valla div{
+        padding-left: 0;
+        width: 100%;
+
+
+    }
+    #valla div img{
+        width: 150px;
+    }
+}
+
+@media(max-width:456px){
+    .img2{
+       width: 240px;
+    }
+
+    nav a{
+        text-decoration: none;
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+        color: black;
+        font-size: 2vh;
+        font-weight: 600;
+        
+    }
+    nav li{padding: 1px;
+        padding-left: 4vh;
+       transition: 2s;
+       color: black;
+    }
+
+    #valli div{
+        padding-left: 0;
+        width: 100%;
+
+
+    }
+    #valli div img{
+        width: 100px;
+    }
+    #vall div{
+        padding-left: 0;
+        width: 100%;
+
+
+    }
+    #vall div img{
+        width: 100px;
+    }
+
+    #valll div{
+        padding-left: 0;
+        width: 100%;
+
+
+    }
+    #valll div img{
+        width: 100px;
+    }
+
+    #valla div{
+        padding-left: 0;
+        width: 100%;
+
+
+    }
+    #valla div img{
+        width: 100px;
+    }
+
+
+
+
+
+
+
